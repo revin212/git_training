@@ -3,3 +3,4 @@ Second line of Alice.txt
 some more text
 
 Editing Alice.txt on the remote repo
+testing git stash
