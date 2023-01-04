@@ -2,4 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Second line of Alice.txt
 some more text
 
-Editing Alice.txt on the remote repo
+Editing Alice.txt on the local repo
